@@ -7,13 +7,13 @@ Experiments for in silico evaluation of Optimality of Photosynthetic Nitrogen Di
 Here you can find supplementary data for this protocol published in [Bio-protocol](https://bio-protocol.org/Default.aspx):
 
 
-* R scripts
+* R scripts (see section Data analysis in the protocol)
 
-Script_1_Data_processing.R (see section Data analysis A, B) 
+Script_1_Data_processing.R (Data analysis A and B) 
 
-Script_2_Model_parameterization.R (see section Data analysis C, D)
+Script_2_Model_parameterization.R (Data analysis C and D)
 
-Script_3_Simulation_in_silico_test.R (see section Data analysis E-H)
+Script_3_Simulation_in_silico_test.R (Data analysis E-H)
 
 
 
