@@ -4,7 +4,7 @@ Experiments for in silico evaluation of Optimality of Photosynthetic Nitrogen Di
 
 
 
-Here you can find supplementary data for this protocol published in [Bio-protocol](https://bio-protocol.org/Default.aspx):
+Here you can find the following supplementary data for this protocol published in [Bio-protocol](https://bio-protocol.org/Default.aspx):
 
 
 * R scripts (see section Data analysis in the protocol)
