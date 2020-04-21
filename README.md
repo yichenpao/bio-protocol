@@ -1,6 +1,6 @@
 ## Experiments for in silico evaluation of Optimality of Photosynthetic Nitrogen Distribution and Partitioning in the Canopy: an Example Using Greenhouse Cucumber Plants
 
-This protocol is published in [Bio-protocol](https://bio-protocol.org/Default.aspx), doi:  10.21769/BioProtoc.3556. Here you can find R scripts and example data sets used in the protocol.
+This protocol is published in Bio-protocol, doi: [10.21769/BioProtoc.3556](https://bio-protocol.org/Default.aspx). Here you can find R scripts and example data sets used in the protocol.
 
 
 #### R scripts (see section Data analysis in the protocol):
